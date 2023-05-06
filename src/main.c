@@ -1,3 +1,5 @@
+//  Проба
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <radSens1v2.h>
